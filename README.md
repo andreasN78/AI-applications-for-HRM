@@ -50,4 +50,6 @@ We encourage you to contribute to the PerformanceReviewsAnalyser project by:
 
 **License**
 
-The PerformanceReviewsAnalyser project is licensed under the producer
+The PerformanceReviewsAnalyser project is licensed under the following terms:
+Copyright (C) 2024 Andreas Neofytou
+All rights reserved.

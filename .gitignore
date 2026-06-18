@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Fine-tuned model artifacts (large — distribute via Releases/HF Hub)
+gpt2-finetuned-hr/
+*.bin
+*.safetensors
+*.pt
+logs/
+runs/
+
+# Build / extraction artifacts
+assets_raw/
+_fulltext.txt
+
+# Secrets
+*.env
+.env
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

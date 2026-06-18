@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+vaderSentiment
+scikit-learn
+transformers
+torch
+ipywidgets
+reportlab
+openpyxl
+XlsxWriter
+tqdm
